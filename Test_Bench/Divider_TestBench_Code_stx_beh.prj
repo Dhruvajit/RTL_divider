@@ -1,0 +1,7 @@
+verilog isim_temp "Comparator_1bit.v"
+verilog isim_temp "Divider_Code_4bit.v"
+verilog isim_temp "Comparato_1bit.vf"
+verilog isim_temp "Output_FOUR_Code.v"
+verilog isim_temp "Divider_TestBench_Code.v"
+verilog isim_temp "Comparator_4bit.vf"
+verilog isim_temp "D:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
